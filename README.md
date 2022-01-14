@@ -1,8 +1,7 @@
 ## Hi there 👋. Welcome to my repo profile.
 
 ## About Me
-Sadaf Fakhriravari and I like to go with Sarah Ravari (Software Developer) has over a five year of programming and software development experience, with several project in mobile application.
-
+Sadaf Fakhriravari and I like to go with Sarah Ravari (Software Developer) has over a five year of programming and software development experience.
 ## About My Projects
 
 

@@ -7,7 +7,6 @@ Sadaf Fakhriravari and I like to go with Sarah Ravari (Software Developer) has o
 
 
 ## Follow Me
-Twitter: 
 LinkedinIn: [https://www.linkedin.com/in/sarah-fakhriravari-a69a27129/](https://www.linkedin.com/in/sarah-fakhriravari-a69a27129/])
 
 ## Some Stats

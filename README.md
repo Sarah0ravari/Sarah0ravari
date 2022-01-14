@@ -8,6 +8,8 @@ Sadaf Fakhriravari and I like to go with Sarah Ravari (Software Developer) has o
 ## Follow Me
 LinkedIn: [https://www.linkedin.com/in/sarah-fakhriravari-a69a27129/](https://www.linkedin.com/in/sarah-fakhriravari-a69a27129/])
 
+Kaggle:[https://www.kaggle.com/sarahriravari](https://www.kaggle.com/sarahriravari])
+
 ## Some Stats
 
 [![Top GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarah0ravari&hide_borders=true&layout=compact)](https://github.com/Sarah0ravari/github-readme-stats)

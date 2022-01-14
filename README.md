@@ -17,7 +17,7 @@ LinkedIn: [https://www.linkedin.com/in/sarah-fakhriravari-a69a27129/](https://ww
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sarah0ravari&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarah0ravari&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/Sarah0ravari/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarah0ravari&show_icons=true&theme=radical)(https://github.com/Sarah0ravari/github-readme-stats)
 
 <!--
 **drxeno02/drxeno02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

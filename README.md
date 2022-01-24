@@ -1,7 +1,7 @@
 ## Hi there 👋. Welcome to my repo profile.
 
 ## About Me
-Sadaf Fakhriravari and I like to go with Sarah Ravari (Software Developer) has over a five year of programming and software development experience.
+Sadaf Fakhriravari (I go by Sarah). I will soon graduate with a B.s. in Computer Science, with minors in Data Science and Math. Afterwards, I will attend grad school in Fall 2022 (also in C.S.). Currently I am learning industry standard tools for web development, such as React, Rails, AWS, and more! 
 ## About My Projects
 
 

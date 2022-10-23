@@ -1,12 +1,12 @@
 ## Hi there 👋. Welcome to my profile repo.
 
 ## About Me
-Sadaf Fakhriravari (I go by Sarah). I graduated with a B.s. in Computer Science, with minors in Data Science and Math. Afterwards, I will attend grad school in Fall 2022 (also in C.S.). Currently I am working on projects with modern web dev tools such as React, Rails, AWS, and more! 
+Sadaf Fakhriravari (I go by Sarah). I graduated with a B.s. in Computer Science, with minors in Data Science and Math. Afterwards, I am attending grad school with degree in C.S. 
 
 
 
 ## Follow Me
-LinkedIn: [https://www.linkedin.com/in/sarah-fakhriravari-a69a27129/](https://www.linkedin.com/in/sarah-fakhriravari-a69a27129/])
+LinkedIn: [https://www.linkedin.com/in/sadaf-draper/](https://www.linkedin.com/in/sadaf-draper/)
 
 Kaggle:[https://www.kaggle.com/sarahriravari](https://www.kaggle.com/sarahriravari])
 

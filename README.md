@@ -36,6 +36,7 @@ I enjoy building **scalable pipelines, optimizing ML models, and developing real
 ## 📜 **Publications**
 📄 **Optimizing Solar Energy Efficiency Using Machine Learning Models (GRU, LSTM, CNN)**  
 Master’s Thesis (2024) – **California State University Northridge**  
+🔗 [Read Full Publication](https://scholarworks.calstate.edu/concern/file_sets/7p88cr18f)  
 - Developed **solar irradiance prediction models** improving PV panel efficiency by **15%**.
 
 ---
@@ -83,8 +84,7 @@ Master’s Thesis (2024) – **California State University Northridge**
 
 ### **🔥 Fun Fact**
 ⚡ I built **FareCast-Ride-** to analyze **using AI** – just a step closer to **working with Lyft and Uber someday! ** 
-![Lyft](https://img.shields.io/badge/Lyft-FF00BF?style=for-the-badge&logo=lyft&logoColor=white)  
-![Uber](https://img.shields.io/badge/Uber-000000?style=for-the-badge&logo=uber&logoColor=white)  
+![Lyft](https://img.shields.io/badge/Lyft-FF00BF?style=for-the-badge&logo=lyft&logoColor=white) and ![Uber](https://img.shields.io/badge/Uber-000000?style=for-the-badge&logo=uber&logoColor=white)  
 
 ⚡ I built **MarsVision** to analyze **Martian terrain using AI** – just a step closer to **working with NASA someday!** 🚀
 

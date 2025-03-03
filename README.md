@@ -83,7 +83,7 @@ Master’s Thesis (2024) – **California State University Northridge**
 ---
 
 ### **🔥 Fun Fact**
-⚡ I built **FareCast-Ride-** to analyze **using AI** – just a step closer to **working with Lyft and Uber someday!** ![Lyft](https://img.shields.io/badge/Lyft-FF00BF?style=for-the-badge&logo=lyft&logoColor=white) ; ![Uber](https://img.shields.io/badge/Uber-000000?style=for-the-badge&logo=uber&logoColor=white)  
+⚡ I built **FareCast-Ride-** to analyze **using AI** – just a step closer to **working with Lyft and Uber someday!** ![Lyft](https://img.shields.io/badge/Lyft-FF00BF?style=for-the-badge&logo=lyft&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-000000?style=for-the-badge&logo=uber&logoColor=white)  
 
 ⚡ I built **MarsVision** to analyze **Martian terrain using AI** – just a step closer to **working with NASA someday!** 🚀
 

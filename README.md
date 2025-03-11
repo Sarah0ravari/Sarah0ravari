@@ -70,7 +70,8 @@ Master’s Thesis (2024) – **California State University Northridge**
 ---
 
 ## 📜 **Certifications**
-- 🏅 **Google Cloud Professional Data Engineer** *(In Progress)*  
+- 🏅 **Google Cloud Professional Data Engineer** *(In Progress)*
+- 🏅 **Engineer Data for Predictive Modeling with BigQuery ML Skill Badge** *(2025)* 
 - 🏅 **AWS Academy – Cloud Foundations** *(2022)*  
 
 ---

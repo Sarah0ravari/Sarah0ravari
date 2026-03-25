@@ -60,6 +60,7 @@ Master’s Thesis, California State University Northridge, 2024
 
 ## Certifications
 - Google Cloud Professional Data Engineer — In Progress
+- Foundations of AI and Machine Learning for Java Developers (2026)
 - Engineer Data for Predictive Modeling with BigQuery ML Skill Badge (2025)
 - AWS Academy Cloud Foundations (2022)
 

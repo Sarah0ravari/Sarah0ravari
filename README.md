@@ -44,7 +44,8 @@ A real-time planetary simulation project built with Unity and C#.
 Open source contributor and community member.
 - Interested in practical analytics, data education, and data tooling
 - Based in the Bay Area, CA
-- LinkedIn: [Sadaf Draper](https://www.linkedin.com/in/sadaf-draper/)
+- LinkedIn: [DailyDataHero](linkedin.com/company/dailydatahero/)
+- YouTube: [DailyDataHero](https://www.youtube.com/@DailyDataHero)
 
 ## Publication
 **Optimizing Solar Energy Efficiency Using Machine Learning Models (GRU, LSTM, CNN)**  
